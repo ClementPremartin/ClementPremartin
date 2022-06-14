@@ -1,7 +1,9 @@
 
 ![Banniere Github](https://user-images.githubusercontent.com/99645627/173638792-3d90d344-aee1-4661-9ee4-8b0528d10a20.png)
 
+
 ### Hi there 👋
+
 
 ✨ My name is Clément and I'm a web Developer 🚀 from Brest. 
 I'm studying at Wild Code School, a coding bootcamp where we train to become full stack web developpers in a "learning by doing" approach. 
@@ -13,7 +15,6 @@ How to join me
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clément-prémartin/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clementpremartin@gmail.com) 
-
 
 
 
