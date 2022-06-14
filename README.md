@@ -1,4 +1,8 @@
+[banniere-github](https://ibb.co/ZdSVjGJ)
+
 ### Hi there 👋
+
+✨ I'm a student at Wild Code School, a coding bootcamp where we train to become full stack web developpers in a "learning by doing" approach. 
 
 <!--
 **ClementPremartin/ClementPremartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
