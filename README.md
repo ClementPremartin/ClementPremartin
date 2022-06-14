@@ -3,24 +3,27 @@
 
 
 ### Hi there 👋
-
-
+<br>
 ✨ My name is Clément and I'm a web Developer 🚀 from Brest. 
 I'm studying at Wild Code School, a coding bootcamp where we train to become full stack web developpers in a "learning by doing" approach. 
-
-
-
-How to join me
-
-
+<br>
+<br>
+🔨 My skills 
+<br>
+- [x] Js vanilla
+- [x] React
+- [x] Node and Express
+- [x] MySql
+<br>
+<br>
+📫 How to join me
+<br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clément-prémartin/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clementpremartin@gmail.com) 
-
-
-
-My stats
-
-
+<br>
+<br>
+⚡ My stats
+<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClementPremartin)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClementPremartin&layout=compact)](https://github.com/ClementPremartin/github-readme-stats)
 <!--
