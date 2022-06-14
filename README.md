@@ -3,8 +3,11 @@
 
 ### Hi there 👋
 
-✨ I'm a student at Wild Code School, a coding bootcamp where we train to become full stack web developpers in a "learning by doing" approach. 
+✨ My name is Clément and I'm a web Developer 🚀 from Brest. 
+I'm studying at Wild Code School, a coding bootcamp where we train to become full stack web developpers in a "learning by doing" approach. 
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clement-premartin/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clementpremartin@gmail.com) 
 <!--
 **ClementPremartin/ClementPremartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
