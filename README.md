@@ -10,7 +10,7 @@ I'm studying at Wild Code School, a coding bootcamp where we train to become ful
 
 <br>
 <br>
-🔨 **My skills** 
+🔨 <sup>**My skills**</sup> 
 <br>
 <br>
 - [x] Js vanilla <br>
