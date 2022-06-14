@@ -10,11 +10,11 @@ I'm studying at Wild Code School, a coding bootcamp where we train to become ful
 <br>
 🔨 My skills 
 <br>
-- [x] Js vanilla
-- [x] React
-- [x] Node and Express
-- [x] MySql
-
+- [x] Js vanilla <br>
+- [x] React <br>
+- [x] Node and Express <br>
+- [x] MySql <br>
+<br>
 
 📫 How to join me
 
