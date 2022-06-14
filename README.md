@@ -4,8 +4,10 @@
 
 ### Hi there 👋
 <br>
-✨ My name is Clément and I'm a web Developer 🚀 from Brest. 
+✨ My name is Clément and I'm a Web Developer 🚀 from Brest in France.
+After 6 years as sound ingeneer, I decided to focus on web development to challenge myself and work on new projects.
 I'm studying at Wild Code School, a coding bootcamp where we train to become full stack web developpers in a "learning by doing" approach. 
+
 <br>
 <br>
 🔨 My skills 
