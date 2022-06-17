@@ -12,13 +12,13 @@ I'm studying at Wild Code School, a coding bootcamp where we train to become ful
 <br>
 🔨 My skills
 
-# skills
+# 
 - [x] Js vanilla
 - [x] React
 - [x] Node and Express
 - [x] MySql 
 
-# skills
+# 
 
 📫 How to join me
 
