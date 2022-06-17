@@ -14,9 +14,7 @@ I'm studying at Wild Code School, a coding bootcamp where we train to become ful
 - [x] React
 - [x] Node and Express
 - [x] MySql 
-
 # 
-
 ## 📫 How to join me
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clément-prémartin/)
