@@ -13,7 +13,11 @@ I'm studying at Wild Code School, a coding bootcamp where we train to become ful
 - [x] Js vanilla
 - [x] React
 - [x] Node and Express
-- [x] MySql 
+- [x] MySql
+- [x] Java
+- [x] graphQL
+- [x] Next.js
+- [x] Docker  
 # 
 ## 📫 How to join me
 
